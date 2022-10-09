@@ -46,9 +46,10 @@ I am a Software Engineer digitally creating my version of the future with my bes
 <details>
  <summary><h3>👨‍💻 Jareds Coding Journey</h3></summary>
       I started my journey really young, as a student in elementary school I loved messing around with computers and building things, one time my buddy and I even made a minecraft server from scratch running a server on my desktop and we got paid money for ranks etc and we we're only maybe 12 years old. I thought the entire idea of working on a computer would be interesting and fun, going through school further and further I realized it seemed like a lot of people we're going to try to work on computers and be game developers or coders etc. The idea that the market would be so saturated kind of turned me away a bit from learning how to code fully. Instead I started working blue collar jobs like carpentry and I worked at the Amazon warehouse for a couple of years, finally something in me just clicked and I decided I was going to go to college to study computer science concentrating on Software Engineering. During college I made quite a few basic applications and each one taught me a lot, I enjoyed it so much I pretty much aced most of my classes. After college was over I got into freelancing a lot and built a Python script for one client and a couple of full-stack websites for a couple of other clients you can check one out called [Farmers' Market NFT][client] it isn't fully finished until the client wants to move forward with the NFT but it still is a pretty React.Js website. Currently I am in the job market trying to learn more and fulfill my coding dreams everyday I would love to make an impact. Thank you for reading and I hope to see you in the community sometime soon! ❤️ Follow my socials above and connect with me! 💻
+      [client]: https://farmersmarketnft.com/
+
       
   
 
 
 [portfolio]: https://www.jaredspersonalportfolio.com/
-[client]: https://farmersmarketnft.com/
