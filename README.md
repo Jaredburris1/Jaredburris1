@@ -5,7 +5,7 @@
 I am a Software Engineer digitally creating my version of the future with my best possible vision. I graduated from Southern New Hampshire University in July 2021 with a Bachelors in Computer Science with a concentration in Software Engineering, I received "Magna Cum Laude" for graduating with a 3.8 GPA. I'm immensely intrigued with developing software with languages such as Python, Swift, Javascript, and i'm open to code in just about any language, I think of myself as a "Code Junky" 🤓, and I really enjoy connecting and working with others! I really need to put more of my content here on github but a lot of my content is on my [Personal Portfolio][portfolio]
 
 
-[portfolio]: [www.jaredspersonalportfolio.com](https://www.jaredspersonalportfolio.com/)
+[portfolio]: https://www.jaredspersonalportfolio.com/
 
 
 
