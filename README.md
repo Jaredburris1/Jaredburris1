@@ -39,7 +39,7 @@ I am a Software Engineer digitally creating my version of the future with my bes
       
 ### 📊 Stats
 
-![Jareds GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredburris1&show_icons=true&theme=gruvbox)
+![Jareds GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredburris1&show_icons=true&theme=transparent)
 
 #
 
