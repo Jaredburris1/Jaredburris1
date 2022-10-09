@@ -35,7 +35,17 @@ I am a Software Engineer digitally creating my version of the future with my bes
 <img align="left" alt="Bash" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+      
+### 📊 Stats
 
+![Jareds GitHub stats](https://github-readme-stats.vercel.app/api?username=jaredburris1&show_icons=true&theme=gruvbox)
+
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Jareds Coding Journey</h3></summary>
+  
 
 
 
@@ -44,20 +54,3 @@ I am a Software Engineer digitally creating my version of the future with my bes
 
 
 [portfolio]: https://www.jaredspersonalportfolio.com/
-
-
-
-<!--
-**Jaredburris1/Jaredburris1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
