@@ -6,7 +6,7 @@ I am a Software Engineer digitally creating my version of the future with my bes
 
 <p align="left">
       <a href="https://www.jaredspersonalportfolio.com/">
-         <img alt="Personal Portfolio" title="Check out my Personal Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Portfolio-blueviolet"/></a> 
+         <img alt="Personal Portfolio" width="40px" title="Check out my Personal Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Personal%20Portfolio-blueviolet"/></a> 
       <a href="https://www.instagram.com/jaredeveloper">
          <img alt="Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-red"/></a> 
       <a href="https://twitter.com/JareDeveloper">
